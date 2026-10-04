@@ -1,0 +1,13 @@
+{
+  "name": "fluid-particle-sim",
+  "version": "1.0.0",
+  "private": true,
+  "author": "tubakhxn",
+  "dev/creator": "tubakhxn",
+  "type": "module",
+  "description": "Hand-controlled 3D fluid particle simulation inside a wireframe cube (webcam + MediaPipe)",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
