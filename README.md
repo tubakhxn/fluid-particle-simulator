@@ -1,4 +1,4 @@
-# dev/creator=tubakhxn
+# fluid-particle-simulator
 
 ## dev/creator=tubakhxn
 
